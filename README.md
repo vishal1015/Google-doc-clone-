@@ -1,0 +1,1 @@
+Hi! This is simply a Google-doc-editor clone i make it with the ReactJs and CSS, quill editor . 
